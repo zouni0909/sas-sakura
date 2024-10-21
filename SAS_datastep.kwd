@@ -1,0 +1,11 @@
+﻿// SAS_datastep キーワード定義ファイル
+// CASE=False
+
+data=
+id=
+max=
+min=
+out=
+rename=
+template=
+where=
